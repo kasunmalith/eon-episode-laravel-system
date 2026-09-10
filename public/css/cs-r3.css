@@ -1,0 +1,69 @@
+@media (max-width: 1199.98px) {
+
+
+.inside_caption h5{
+	font-size: 52px;
+}
+
+
+.inside_caption {
+  
+    top: 40%;
+}
+.section-1-h p{
+	    font-size: 21px;
+}
+.section-1-h h1{
+	    font-size: 29px;
+}
+
+.inside-item{
+	    margin: 2px;
+}
+
+
+.inside-item  .text-holder-outer h5 {
+   	 text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+   }
+.inside-item .text-holder-outer .couple-name{
+	text-transform: uppercase;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 19px;
+    letter-spacing: 2px;
+}
+
+.container .intro-box-outer{
+width: 50%;}
+
+
+#enjoy-day-1 h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 41px;
+    letter-spacing: 7px;
+}
+
+#carouseltestemonials .testimonial-text{
+
+    width: 50%;
+  height: 330px;
+}
+   
+    
+
+#carouseltestemonials .preview-img{
+   
+  
+    width: 50%;
+ 
+    }
+    
+    #carouseltestemonials .carousel-control-next, 
+    #carouseltestemonials .carousel-control-prev{
+    	  bottom: 140px;
+    }
+      
+
+}
+/*@media (max-width: 1199.98px)*/

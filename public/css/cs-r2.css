@@ -1,0 +1,139 @@
+@media (max-width: 991.98px) {
+	
+	
+	#slider-top{
+		display:none;
+	}
+	#menu-main {
+		margin-top: 0px;
+		width: 100%;
+	}
+	.main-header {
+		background: rgba(255,255,255,0.99);
+		padding-left: 20px;
+		padding-right: 20px;
+		    margin-bottom: 0px;
+    padding-bottom: 0px;
+       padding-top: 19px;
+	}
+	#menu-main .nav-link {
+		color: #84847c;
+		text-shadow: 0px 0px 0px #000;
+		border-bottom: 1px solid #ccc;
+		letter-spacing: 2px;
+		padding-bottom: 12px;
+		padding-top: 11px;
+		
+	}
+	.eon-logo {
+
+		filter: brightness(0.25);
+	}
+	.menu-btn-parent {
+		position: relative;
+	}
+	.menu-btn {
+		display: block;
+		position: absolute;
+		right: 33px;
+		cursor: pointer;
+	}
+	.control-menu1 {
+		width: 100%;
+	}
+	#main-logo {
+		width: 95px;
+		height: 50px;
+		margin-top: 11px;
+		margin-left: 20px;
+	}
+	#menu-main  .collapse-menu {
+		border: none;
+		margin-left: 30px;
+		padding-left: 1px;
+	}
+	#menu-main .dropdown-item {
+		border-bottom: 1px solid #ccc;
+		padding-left: 0px;
+		padding-top: 5px;
+		padding-bottom: 7px;
+	}
+	#menu-main .collapse-menu a {
+
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
+	#desc-logo1 {
+		margin-top: -40px;
+	}
+
+.grid-item{ min-width: 50%; }
+
+.vertical-line{
+	    top: 78px;
+}
+
+.animation-line {
+   display: none;
+}
+
+#enjoy-day-1 h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 31px;
+    letter-spacing: 7px;
+}
+
+
+#carouseltestemonials .testimonial-text{
+position: static;
+    width: 100% !important;
+  
+    height: 330px;
+ min-height: 400px;
+    }
+
+#carouseltestemonials .preview-img{
+    position: static;
+   
+    width: 100% !important;
+    
+   
+    }
+    
+    #carouseltestemonials .carousel-control-next, 
+    #carouseltestemonials .carousel-control-prev{
+    	     bottom: 21px !important;
+    }
+
+.section-3-h{
+	    max-width: 70%;
+}
+
+.col.insta-post{
+	width:50%;
+	flex-basis: auto;
+}
+.footer .p-2{
+	
+    width: 100%;
+    min-width: 290px;
+       
+
+}
+.footer.s1{
+	
+ display: block !important;
+}
+
+
+@media (max-width: 992px) {
+	
+	.fb-pages .col{
+		flex-basis: auto;
+	}
+	
+}
+
+
+} /*end*/
+/*@media (max-width: 991.98px)*/

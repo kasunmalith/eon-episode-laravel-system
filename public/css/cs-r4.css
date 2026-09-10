@@ -1,0 +1,175 @@
+@media (max-width: 767.98px) {
+
+.carousel-indicators{
+	display: none;
+}
+
+	.inside_caption h5 {
+		font-size: 30px;
+		margin-bottom: 16px;
+		display: none;
+	}
+	.inside_caption .love{
+		display: none;
+	}
+	
+	
+	.inside_caption {
+		top: 66%;
+	}
+	.inside_caption p {
+		font-size: 21px;
+		height: 66px;
+		line-height: 28px;
+		display: none;
+	}
+	.small-screen-height .carousel-indicators {
+		
+	}
+	.small-screen-height .inside_caption p {
+		margin-bottom: 2px;
+		height: 43px;
+	}
+	.small-screen-height .inside_caption h5 {
+		white-space: nowrap;
+	}
+	.section-1-h {
+		
+		padding-bottom: 210px;
+	}
+	.section-2-h .video-1-h {
+		max-width: 100%;
+		margin-top: 80px;
+	}
+	.section-1-h {
+		background-size: 0%;
+	}
+	.grid-item {
+		min-width: 49%;
+	}
+	.inside-item .text-holder h5 {
+		text-transform: uppercase;
+		font-size: 12px;
+		letter-spacing: 2px;
+	}
+	.inside-item .text-holder .couple-name {
+
+		text-transform: uppercase;
+		font-family: 'Cormorant Garamond', serif;
+		font-size: 22px;
+		letter-spacing: 2px;
+	}
+	.lf-2 {
+		display: none;
+	}
+	.container .intro-box-outer {
+		width: 100%;
+	}
+	.intro-box .row.justify-content-md-center, .two-hearts {
+		justify-content: center !important;
+	}
+	.morephotography .read-more {
+
+		padding: 15px 25px;
+		font-size: 9px;
+	}
+	.read-more.cinematography{
+		padding: 15px 22px;
+		font-size: 8px;
+		letter-spacing: 0px;
+	}
+	
+	
+	#enjoy-day-1 h3 {
+		font-family: 'Cormorant Garamond', serif;
+		font-size: 24px;
+		letter-spacing: 7px;
+	}
+	#enjoy-day-1 .col-7 {
+		-ms-flex: 0 0 90%;
+		flex: 0 0 90%;
+		max-width: 90%;
+	}
+	.section-3-h {
+		max-width: 100%;
+	}
+	.section-3-h .row.justify-content-md-center {
+		justify-content: center !important;
+	}
+	#carouseltestemonials .testimonial-text-inner{
+		width: 92%;
+	}
+	.col.insta-post{
+	width:100%;
+	flex-basis: auto;
+}
+
+.form-km {
+	padding: 40px;
+}
+.submit-btn{
+	    margin-bottom: 0px;
+}
+
+.form-km .col{
+		flex-basis: auto;
+		
+}
+
+
+.inside-item img{
+		  min-height: 200px;
+    max-height: 300px;
+	}
+#loading-icon1{
+    justify-content: center!important;}
+
+
+#masonryGrid .portrait .lazy{
+min-width: 100% !important;
+ max-width: 100% !important;
+    min-height: unset !important;
+     max-height: unset !important;
+     
+    }
+#masonryGrid .landscape .lazy{
+   
+    }
+    
+   .select2-selection.select2-selection--single{
+		    margin-bottom: 10px;
+		    height: 44px;
+    border-radius: 0px;
+	}
+
+}
+/*@media (max-width: 767.98px)*/
+
+@media (max-width: 467.98px) {
+.section-2-h .video-1-h {
+		
+		    margin-top: 160px;
+	}
+	#masonryGrid{
+		margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 10px;
+	}
+#masonryGrid .grid{
+	
+    max-width: 100%;
+}
+
+#masonryGrid .landscape .lazy{
+min-height: 333px;	
+}
+
+#masonryGrid .portrait .lazy{
+	max-height: 585px;
+}
+
+	}
+	
+	
+
+

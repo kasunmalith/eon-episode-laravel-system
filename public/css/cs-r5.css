@@ -1,0 +1,22 @@
+@media (max-width: 1500px) { 
+	
+	
+	.grid-item{ min-width: 33.3333%; }
+	.inside-item img{
+		    max-height: 641px;
+	}
+	
+	}
+	
+@media (max-width: 1088px) { 
+	
+	
+#menu-main .nav-link {
+   
+    margin-left: 7px;
+    margin-right: 6px;
+    
+}
+	
+	
+	}

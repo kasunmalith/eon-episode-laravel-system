@@ -114,6 +114,7 @@ The public-facing website includes:
 - Laravel
 - HTML5
 - CSS3
+- Bootstrap
 - JavaScript
 - jQuery
 - AJAX

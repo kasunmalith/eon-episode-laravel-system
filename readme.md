@@ -160,7 +160,43 @@ Environment-specific credentials and configuration are kept outside version cont
 
 ## Screenshots
 
-Project screenshots demonstrating the public website, administration dashboard, gallery management, and client proofing system will be added separately.
+### Public Website
+
+#### Homepage
+
+![Eon Episode Homepage](screenshots/01-homepage.jpg)
+
+#### Photography Gallery
+
+![Photography Gallery](screenshots/02-gallery.jpg)
+
+### Administration System
+
+#### Quotation Request Management
+
+The administration panel allows customer quotation requests submitted through the website to be reviewed and managed.
+
+![Quotation Request Management](screenshots/03-admin-panel-quotation-request.jpg)
+
+#### Homepage Slider Management
+
+Administrators can manage slider titles, images, links, text appearance, and responsive positioning through the custom backend.
+
+![Slider Management](screenshots/04-admin-panel-slider.jpg)
+
+### Client Proofing System
+
+#### Client Proofing Gallery
+
+Password-protected galleries provide private access to client photography collections.
+
+![Client Proofing Gallery](screenshots/05-client-proofing-gallery.jpg)
+
+#### Proofing Gallery Administration
+
+The administration system allows client proofing accounts and gallery access to be managed through the backend.
+
+![Proofing Gallery Administration](screenshots/06-admin-panel-client-proofing-gallery.jpg)
 
 ## About This Project
 

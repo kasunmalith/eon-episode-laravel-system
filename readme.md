@@ -188,6 +188,7 @@ Administrators can manage slider titles, images, links, text appearance, and res
 
 #### Client Proofing Gallery
 
+
 Password-protected galleries provide private access to client photography collections.
 
 ![Client Proofing Gallery](screenshots/05-client-proofing-gallery.jpg)
